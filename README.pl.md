@@ -98,8 +98,9 @@ Jak współpracować:
 
 ## 📄 Licencja
 
-Projekt dostępny na licencji **MIT**.  
-Szczegóły w pliku [`LICENSE`](LICENSE)
+Ten projekt jest objęty licencją **Apache License 2.0**.
+Wszystkie prace pochodne (np. akademie oparte na tym szablonie) **muszą zachować tę licencję** oraz wskazanie oryginalnego autora.
+Szczegóły znajdują się w plikach [`LICENSE`](LICENSE) i [`NOTICE`](NOTICE).
 
 ---
 

@@ -102,8 +102,9 @@ To contribute:
 
 ## 📄 License
 
-This project is licensed under the terms of the **MIT License**.  
-See [`LICENSE`](LICENSE) for details.
+This project is licensed under the **Apache License 2.0**.
+All derivative works (e.g., academies based on this template) **must retain this license** and the original author attribution.
+See [`LICENSE`](LICENSE) and [`NOTICE`](NOTICE) for details.
 
 ---
 
