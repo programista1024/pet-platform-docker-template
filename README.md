@@ -61,3 +61,50 @@ Each component is implemented as an isolated service, progressively integrated.
    ```bash
    git clone https://github.com/your-name/your-repo.git
    cd your-repo
+
+---
+
+## 🛠 Requirements
+
+- [Docker Desktop](https://www.docker.com/products/docker-desktop/)
+- [Docker Compose](https://docs.docker.com/compose/)
+- (Optional) [GPG setup for signed commits](https://docs.github.com/en/authentication/managing-commit-signature-verification)
+- (Optional) [Visual Studio Code](https://code.visualstudio.com/) with Docker and Dev Containers extensions
+
+---
+
+## 📚 Documentation
+
+See [`docs/architecture.md`](docs/architecture.md) for:
+
+- Overall system architecture
+- Stage-by-stage integration strategy
+- Guidelines for contribution
+- Design patterns and service boundaries
+
+---
+
+## 🤝 Contribution
+
+We welcome contributions in all forms:
+
+- Improving Dockerfiles and configurations
+- Adding or documenting new technology stages
+- Writing tutorials, READMEs, and examples
+- Creating tests and GitHub Actions workflows
+
+To contribute:
+1. Fork the repository
+2. Create a branch from `main`
+3. Submit a pull request with clear description
+
+---
+
+## 📄 License
+
+This project is licensed under the terms of the **MIT License**.  
+See [`LICENSE`](LICENSE) for details.
+
+---
+
+Made with ❤️ by [Programista1024.pl](https://programista1024.pl)
